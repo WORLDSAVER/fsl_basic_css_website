@@ -1,0 +1,67 @@
+
+img
+{
+  height:120px;
+
+}
+
+body
+{
+  background-color:black;
+}
+
+.white_text
+{
+  color:white;
+  font-family:sans-serif;
+}
+
+.heading
+{
+  border-style:none none solid none;
+  border-color:white;
+  width:11%;
+}
+
+hr
+{
+  border-style:none none dotted none;
+  border-bottom-color:white;
+  border-bottom-width: 5px;
+  width:10%;
+}
+
+#season1
+{
+  width:9%;
+}
+
+#future
+{
+  width:20%;
+}
+
+label
+{
+  color:white;
+  font-weight:bold;
+  font-family:sans-serif;
+}
+
+img:hover
+{
+  border-radius:50%;
+}
+
+h3:hover
+{
+  font-size:20px;
+}
+
+#copyright
+{
+  color:white;
+  font-family:sans-serif;
+  font-size:12px;
+  font-weight:bold;
+}
